@@ -156,7 +156,7 @@ var x = 1;
 
 #### 3.2.3. 文档注释
 
-各类标签@param, @method等请参考usejsdoc和JSDoc Guide
+各类标签@param, @method等请参考[usejsdoc](https://jsdoc.app/)和[JSDoc Guide](https://www.html.cn/doc/jsdoc/)
 建议在以下情况下使用：
 
 - 所有常量
